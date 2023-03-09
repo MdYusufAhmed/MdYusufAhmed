@@ -1,7 +1,7 @@
 <img src = "https://user-images.githubusercontent.com/95774681/146697059-4cb0782b-67e6-4c41-b20a-013bdc3f1070.png" width = "400" height = "200" />
 
 
-### I'm Mohammed Yusuf Ahmed 👋 
+### I'm Yusuf Ahmed 👋 
 
 I am a Masters in Business Analytics student at Hult International Business School, Boston.
 My skills include knowledge of Data Science, Data Analytics, Business Intelligence, R, SQL, Microsoft Exel, Python, C++, Machine Learning. 
